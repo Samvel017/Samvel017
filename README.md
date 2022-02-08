@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Samvel
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React Js library of JavaScript
+- 👀 I’m Software Developer at Solicy
 - 📫 You can reach me with linkedin - https://www.linkedin.com/in/samvel-hovhannisyan-91739a224/
 
 <!---
