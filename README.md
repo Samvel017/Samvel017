@@ -12,7 +12,7 @@
 
 <br>
 
-Tech Team Lead with extensive experience in Javascript language and frameworks. Proven track record in full-stack development, delivering high-quality, scalable solutions that meet business needs. Adept at leading cross-functional teams to achieve project goals and drive innovation in a fast-paced environment. Passionate about staying up-to-date with the latest technologies and trends in the industry, continuously enhancing technical skills and contributing to the growth of the organization.
+As an enthusiastic JavaScript developer with over three years of practical software development expertise, I have developed reliable and effective solutions. I am devoted to producing high-quality code and knowledgeable about the nuances of the language and its frameworks. Throughout my professional experience, I have delivered over 30 projects in a variety of industries, including blockchain, NFT Marketplaces, NFT Launchpads, food delivery, cryptocurrency hedge funds, rental, medicine, e-commerce, artificial intelligence, and others.
 
 <br><br>
 
