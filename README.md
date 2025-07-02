@@ -12,7 +12,7 @@
 
 <br>
 
-As an enthusiastic JavaScript developer with over three years of practical software development expertise, I have developed reliable and effective solutions. I am devoted to producing high-quality code and knowledgeable about the nuances of the language and its frameworks. Throughout my professional experience, I have delivered over 30 projects in a variety of industries, including blockchain, NFT Marketplaces, NFT Launchpads, food delivery, cryptocurrency hedge funds, rental, medicine, e-commerce, artificial intelligence, and others.
+As an enthusiastic JavaScript developer with over five years of practical software development expertise, I have developed reliable and effective solutions. I am devoted to producing high-quality code and knowledgeable about the nuances of the language and its frameworks. Throughout my professional experience, I have delivered over 30 projects in a variety of industries, including blockchain, NFT Marketplaces, NFT Launchpads, cybersecurity, food delivery, cryptocurrency hedge funds, rental, medicine, e-commerce, artificial intelligence, and others.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
